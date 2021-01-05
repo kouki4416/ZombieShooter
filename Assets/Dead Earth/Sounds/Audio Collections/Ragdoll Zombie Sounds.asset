@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8131678a24b48a449ad376455e36237c, type: 3}
+  m_Name: Ragdoll Zombie Sounds
+  m_EditorClassIdentifier: 
+  _audioGroup: Zombies
+  _volume: 0.486
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: 9d05a4270cfd5b3458bad8c9330d7969, type: 3}
+    - {fileID: 8300000, guid: 33603acede18d54489905db4f6eb184f, type: 3}
+    - {fileID: 8300000, guid: f24b7266a8db5374fb6b6f03ae3ec60e, type: 3}
+    - {fileID: 8300000, guid: 4004d2b35da526b41860faadbe295cd0, type: 3}
+    - {fileID: 8300000, guid: 084bc09bbb848c74a980221caa4053d5, type: 3}
+    - {fileID: 8300000, guid: 761e295b3e1f5d044b98a592a0140226, type: 3}
+    - {fileID: 8300000, guid: 9b97a9fde17fef14bb8681b21733bd0e, type: 3}
+  - Clips:
+    - {fileID: 8300000, guid: e6a9200a5c4a62243a8774099a320584, type: 3}
+    - {fileID: 8300000, guid: 8d644589df1e8d740b3eb091558073e8, type: 3}
+    - {fileID: 8300000, guid: 37f2b1e048c99b74caea5a4499bd2bec, type: 3}
+    - {fileID: 8300000, guid: 271ebffcd1353d44080a2189776b5705, type: 3}
+    - {fileID: 8300000, guid: 56c2f263258fe7442b87e5fd79072844, type: 3}
+    - {fileID: 8300000, guid: 00cca8fb9e9c4b3448e7b04f89aa9132, type: 3}
+    - {fileID: 8300000, guid: 3220977df0ad2da41ad7c527aba87bfe, type: 3}
+    - {fileID: 8300000, guid: 53a521c5bedc2ed4b97706cee89b50d0, type: 3}
+    - {fileID: 8300000, guid: 8ac1da0820f768d438195c00bb0d3a93, type: 3}

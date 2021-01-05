@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8131678a24b48a449ad376455e36237c, type: 3}
+  m_Name: Player Damage
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.141
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: adb07c05438b3564b9f2d929d6a5594f, type: 3}
+    - {fileID: 8300000, guid: 4ea6c1332b7aa56429255536621b6331, type: 3}
+    - {fileID: 8300000, guid: 8bb94964dfe976d43859bbd8df9430b1, type: 3}
+    - {fileID: 8300000, guid: 3604248fad230cb47be756608b2d4c43, type: 3}
+    - {fileID: 8300000, guid: 355d3f812a5edc543a234d63085e48d6, type: 3}
+    - {fileID: 8300000, guid: fa507563536d8b248b36216f8c4827a6, type: 3}
+    - {fileID: 8300000, guid: 44e3826a9767ced498204e60bf851c8b, type: 3}

@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: d274e8abab848a148ad4fde2e5991258
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Cabinet
+    100004: Cabinet1
+    100006: Cabinet2
+    100008: Cabinet3
+    100010: Cabinet4
+    100012: Chair
+    100014: Curtain
+    100016: PC
+    100018: PCkeyboard
+    100020: PCmonitor
+    100022: PCmouse
+    100024: //RootNode
+    100026: Smalltable
+    100028: Smalltable1
+    100030: Smalltable2
+    100032: Smalltable3
+    100034: Smalltable4
+    100036: Smalltable5
+    100038: Stand
+    100040: Table
+    100042: Ultrascanner
+    100044: Wheelchair
+    400000: Bed
+    400002: Cabinet
+    400004: Cabinet1
+    400006: Cabinet2
+    400008: Cabinet3
+    400010: Cabinet4
+    400012: Chair
+    400014: Curtain
+    400016: PC
+    400018: PCkeyboard
+    400020: PCmonitor
+    400022: PCmouse
+    400024: //RootNode
+    400026: Smalltable
+    400028: Smalltable1
+    400030: Smalltable2
+    400032: Smalltable3
+    400034: Smalltable4
+    400036: Smalltable5
+    400038: Stand
+    400040: Table
+    400042: Ultrascanner
+    400044: Wheelchair
+    2100000: Cabinet
+    2100002: Glass
+    2100004: Smalltable
+    2100006: PC
+    2100008: Woodenchair
+    2100010: Ultrascanner
+    2100012: Bed
+    2100014: WheelChair
+    2100016: Stand
+    2100018: Curtain
+    2100020: Table
+    2300000: Bed
+    2300002: Cabinet
+    2300004: Cabinet1
+    2300006: Cabinet2
+    2300008: Cabinet3
+    2300010: Cabinet4
+    2300012: Chair
+    2300014: Curtain
+    2300016: PC
+    2300018: PCkeyboard
+    2300020: PCmonitor
+    2300022: PCmouse
+    2300024: Smalltable
+    2300026: Smalltable1
+    2300028: Smalltable2
+    2300030: Smalltable3
+    2300032: Smalltable4
+    2300034: Smalltable5
+    2300036: Stand
+    2300038: Table
+    2300040: Ultrascanner
+    2300042: Wheelchair
+    3300000: Bed
+    3300002: Cabinet
+    3300004: Cabinet1
+    3300006: Cabinet2
+    3300008: Cabinet3
+    3300010: Cabinet4
+    3300012: Chair
+    3300014: Curtain
+    3300016: PC
+    3300018: PCkeyboard
+    3300020: PCmonitor
+    3300022: PCmouse
+    3300024: Smalltable
+    3300026: Smalltable1
+    3300028: Smalltable2
+    3300030: Smalltable3
+    3300032: Smalltable4
+    3300034: Smalltable5
+    3300036: Stand
+    3300038: Table
+    3300040: Ultrascanner
+    3300042: Wheelchair
+    4300000: Cabinet1
+    4300002: Cabinet2
+    4300004: Cabinet4
+    4300006: Cabinet3
+    4300008: Smalltable1
+    4300010: Smalltable2
+    4300012: Smalltable3
+    4300014: Smalltable4
+    4300016: Smalltable5
+    4300018: PCmonitor
+    4300020: PCmouse
+    4300022: PCkeyboard
+    4300024: Chair
+    4300026: Ultrascanner
+    4300028: PC
+    4300030: Bed
+    4300032: Wheelchair
+    4300034: Stand
+    4300036: Smalltable
+    4300038: Curtain
+    4300040: Table
+    4300042: Cabinet
+    6400000: Bed
+    6400002: Cabinet
+    6400004: Cabinet1
+    6400006: Cabinet2
+    6400008: Cabinet3
+    6400010: Cabinet4
+    6400012: Chair
+    6400014: Curtain
+    6400016: PC
+    6400018: PCkeyboard
+    6400020: PCmonitor
+    6400022: PCmouse
+    6400024: Smalltable
+    6400026: Smalltable1
+    6400028: Smalltable2
+    6400030: Smalltable3
+    6400032: Smalltable4
+    6400034: Smalltable5
+    6400036: Stand
+    6400038: Table
+    6400040: Ultrascanner
+    6400042: Wheelchair
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed
+    second: {fileID: 2100000, guid: 7e440e842afc773449b65c3461af3ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet
+    second: {fileID: 2100000, guid: 540e9fcc6240ff14583b888a8a08059a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: c4a638bdfffd4054e88a863e6a47a011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 40b7b9ddf4c1e834ba041631fe9ee709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PC
+    second: {fileID: 2100000, guid: 01b3bae40641787499ad08d0b443e2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smalltable
+    second: {fileID: 2100000, guid: d0650db6a59c7c3499be3a9527d8c52d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stand
+    second: {fileID: 2100000, guid: d354cce638c219c428a3a9e8395213bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: c8eeae3eba7fee649a4d5c46c2804aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ultrascanner
+    second: {fileID: 2100000, guid: 0a338281e9502b84983fd58544451056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelChair
+    second: {fileID: 2100000, guid: 4dbe909dc538feb4cb5df866017e5e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woodenchair
+    second: {fileID: 2100000, guid: e1e487919e5292449b47360f9c6417fe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

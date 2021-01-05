@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8131678a24b48a449ad376455e36237c, type: 3}
+  m_Name: Player Taunts
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.207
+  _spatialBlend: 0
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: f5cf3769ef378114fa7497ee66a7b6b3, type: 3}
+    - {fileID: 8300000, guid: c03a7d263d0cf0a458e2bcd4e8f51b24, type: 3}
+    - {fileID: 8300000, guid: 532cbac168a92b54eb55431cb72c8c60, type: 3}
+    - {fileID: 8300000, guid: a82af56c7d8b6f84c94aff2a438a93a1, type: 3}
+    - {fileID: 8300000, guid: 7aebf737621c9184d89f5beaedba510f, type: 3}
+    - {fileID: 8300000, guid: 482b4ff41684f0f4f9709e0507c00cbb, type: 3}
+    - {fileID: 8300000, guid: b95884f30094dbd4e82c73b84723e989, type: 3}

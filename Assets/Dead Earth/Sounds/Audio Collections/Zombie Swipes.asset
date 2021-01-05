@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8131678a24b48a449ad376455e36237c, type: 3}
+  m_Name: Zombie Swipes
+  m_EditorClassIdentifier: 
+  _audioGroup: Zombies
+  _volume: 0.13
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: b2e02c87369078b41b50f1f46911a1f4, type: 3}
+    - {fileID: 8300000, guid: dedf99336ac82b6479ffeec7b6eac04d, type: 3}
+    - {fileID: 8300000, guid: 62c3e7e12c8ba724fac699a649a0f8cf, type: 3}
+    - {fileID: 8300000, guid: 6bd2bab5e0603984199556cac2ab72b1, type: 3}
+    - {fileID: 8300000, guid: 916c94cd4fc35c24db29a965daba30c1, type: 3}
+    - {fileID: 8300000, guid: 35c0c0da4160cb148b72559873352ff9, type: 3}
